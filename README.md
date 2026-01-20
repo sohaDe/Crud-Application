@@ -1,5 +1,15 @@
 # React + Vite
 
+A simple and clean Employee Management CRUD application built using React and Redux Toolkit.
+
+The application allows users to:
+- Create, update, delete, and search employee records
+- Store data persistently using LocalStorage
+- Manage global state efficiently with Redux Toolkit
+- A responsive UI built with Tailwind CSS
+- Receive feedback using toast notifications
+
+- 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
